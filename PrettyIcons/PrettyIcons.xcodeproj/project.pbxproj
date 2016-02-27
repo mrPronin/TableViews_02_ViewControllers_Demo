@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2CC296D1C81B8D700A814EB /* PrettyIconsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CC296C1C81B8D700A814EB /* PrettyIconsTableViewController.swift */; };
 		D32F476C1C0E2E3700EB43AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32F476B1C0E2E3700EB43AE /* AppDelegate.swift */; };
 		D32F476E1C0E2E3700EB43AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32F476D1C0E2E3700EB43AE /* ViewController.swift */; };
 		D32F47711C0E2E3700EB43AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32F476F1C0E2E3700EB43AE /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2CC296C1C81B8D700A814EB /* PrettyIconsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrettyIconsTableViewController.swift; sourceTree = "<group>"; };
 		D32F47681C0E2E3700EB43AE /* PrettyIcons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrettyIcons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D32F476B1C0E2E3700EB43AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D32F476D1C0E2E3700EB43AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				D32F477D1C0E2E8B00EB43AE /* Icons */,
 				D32F476B1C0E2E3700EB43AE /* AppDelegate.swift */,
 				D32F476D1C0E2E3700EB43AE /* ViewController.swift */,
+				A2CC296C1C81B8D700A814EB /* PrettyIconsTableViewController.swift */,
 				D32F47A61C0E2EA900EB43AE /* Icon.swift */,
 				D32F47A71C0E2EA900EB43AE /* IconSet.swift */,
 				D32F476F1C0E2E3700EB43AE /* Main.storyboard */,
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D32F47A81C0E2EA900EB43AE /* Icon.swift in Sources */,
+				A2CC296D1C81B8D700A814EB /* PrettyIconsTableViewController.swift in Sources */,
 				D32F47A91C0E2EA900EB43AE /* IconSet.swift in Sources */,
 				D32F476E1C0E2E3700EB43AE /* ViewController.swift in Sources */,
 				D32F476C1C0E2E3700EB43AE /* AppDelegate.swift in Sources */,
@@ -400,6 +404,7 @@
 				D32F477C1C0E2E3700EB43AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
